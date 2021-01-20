@@ -1,1 +1,2 @@
-# CE888
+# CE888 CODES 
+Essex MSc AI 2021
